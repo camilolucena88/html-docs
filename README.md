@@ -1,17 +1,17 @@
 # HTML Docs
 Simple definitions for HTML basic course
 
-- [HTML: HyperText Markup Language](#heading)
-    * [Definition](#sub-heading)
-        + [What is Markup Language?](#sub-sub-heading)
-- [Elements](#heading-1)
-    * [Popular Elements](#sub-heading-1)
-    * [All Elements](#sub-heading-2)
-- [HTML Basic Examples](#heading-2)
-    * [The <!DOCTYPE> Declaration](#sub-heading-3)
-    * [HTML Headings](#sub-heading-4)
-    * [HTML Paragraphs](#sub-heading-5)
-    * [HTML Links](#sub-heading-6)
+- [HTML: HyperText Markup Language](#html-hypertext-markup-language)
+    * [Definition](#definition)
+        + [What is Markup Language?](#what-is-markup-language)
+- [Elements](#elements)
+    * [Popular Elements](#popular-elements)
+    * [All Elements](#all-elements)
+- [HTML Basic Examples](#html-basic-examples)
+    * [The <!DOCTYPE> Declaration](#the-doctype-declaration)
+    * [HTML Headings](#html-headings)
+    * [HTML Paragraphs](#html-paragraphs)
+    * [HTML Links](#html-links)
 
 
 ------------
