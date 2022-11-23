@@ -13,6 +13,9 @@ Simple definitions for HTML basic course
     * [HTML Paragraphs](#sub-heading-5)
     * [HTML Links](#sub-heading-6)
 
+
+------------
+
 ## HTML: HyperText Markup Language
 
 ### Definition
