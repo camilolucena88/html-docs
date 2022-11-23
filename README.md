@@ -104,4 +104,42 @@ HTML links are defined with the `<a>` tag:
 <a href="https://www.w3schools.com">This is a link</a>
 ```
 
+### HTML Images
 
+HTML images are defined with the <img> tag.
+
+The source file (src), alternative text (alt), width, and height are provided as attributes:
+```html
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+```
+
+## HTML Elements
+
+Check https://www.w3schools.com/html/html_elements.asp
+
+
+### HTML - The Head Element
+
+https://www.w3schools.com/html/html_head.asp
+
+### HTML Layout Elements and Techniques
+
+https://www.w3schools.com/html/html_layout.asp
+
+![img_sem_elements](https://user-images.githubusercontent.com/56475977/203615611-811951f6-a534-46f7-834e-c7eeb80b21ce.gif)
+
+## HTML Attributes
+
+https://www.w3schools.com/html/html_attributes.asp
+
+## HTML Styles
+
+https://www.w3schools.com/html/html_styles.asp
+
+## HTML JavaScript
+
+https://www.w3schools.com/html/html_scripts.asp
+
+## HTML - The Head Element
+
+https://www.w3schools.com/html/html_head.asp
